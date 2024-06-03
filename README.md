@@ -1,2 +1,2 @@
-# python-files
-All python-files in digitabel
+# digitabel-files
+All files in project digitabel
